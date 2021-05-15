@@ -1,0 +1,12 @@
+C:\Users\huseyin\source\repos\kampmvc\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\huseyin\source\repos\kampmvc\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\huseyin\source\repos\kampmvc\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\huseyin\source\repos\kampmvc\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\huseyin\source\repos\kampmvc\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huseyin\source\repos\kampmvc\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\huseyin\source\repos\kampmvc\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huseyin\source\repos\kampmvc\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\huseyin\source\repos\kampmvc\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\huseyin\source\repos\kampmvc\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\huseyin\source\repos\kampmvc\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\huseyin\source\repos\kampmvc\EntityLayer\obj\Debug\EntityLayer.pdb
